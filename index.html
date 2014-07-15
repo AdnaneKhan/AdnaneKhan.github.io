@@ -24,10 +24,7 @@
     overflow: auto;
     -webkit-overflow-scrolling: touch; 
   }
-  core-header-panel[mode=cover]::shadow #mainContainer {
-    left:70px;
-  }
-  
+
   core-toolbar {
     background: #03a9f4;
     color: white;
@@ -55,17 +52,30 @@
 </head>
 
 <body unresolved touch-action="auto">
-  <core-header-panel flex>
-    <core-toolbar>
+  <style>
+  core-header-panel[mode=cover]::shadow #mainContainer {
+    left:70px;
+  }
+  .content {
+    margin: 60px 60px 60px 0;
+  }
+  </style>
+  <core-header-panel mode="cover">
+    <core-appbar class="tall">
+      <core-icon-button icon="menu"></core-icon-button>
+    </core-appbar>
+    <div class="content"></div>
+<!--     <core-toolbar>
       <paper-tabs selected="all" valueattr="name" self-end>
         <paper-tab name="all">ALL</paper-tab>
         <paper-tab name="favorites">FAVORITES</paper-tab>
       </paper-tabs>
-    </core-toolbar>
+    </core-toolbar> -->
 
     <!-- main page content will go here -->
 
-  </core-header-panel>
+   </core-header-panel>
+
   
   <script>
     var tabs = document.querySelector('paper-tabs');
