@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>unquote</title>
+  <title>Adnan Khan | Software Developer</title>
   <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
   <script src="../bower_components/platform/platform.js"></script>
   <link rel="import" href="../bower_components/font-roboto/roboto.html">
@@ -19,11 +19,15 @@
     background-color: #E5E5E5;
     font-family: 'RobotoDraft', sans-serif;
   }
-  core-header-panel {
+  core-header-panel{
     height: 100%;
     overflow: auto;
     -webkit-overflow-scrolling: touch; 
   }
+  core-header-panel[mode=cover]::shadow #mainContainer {
+    left:70px;
+  }
+  
   core-toolbar {
     background: #03a9f4;
     color: white;
@@ -51,7 +55,7 @@
 </head>
 
 <body unresolved touch-action="auto">
-  <core-header-panel>
+  <core-header-panel flex>
     <core-toolbar>
       <paper-tabs selected="all" valueattr="name" self-end>
         <paper-tab name="all">ALL</paper-tab>
