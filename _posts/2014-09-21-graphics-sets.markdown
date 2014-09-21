@@ -15,7 +15,7 @@ I decided to use Microsoft Visual Studio 2013 as the development environment. I 
 
 Since the assignment was in 2D there were many different ways one could approach it. I decided that I would focus on code re-use as much as possible in implementing this project.
 
-Extra Credit implementaion
+#### Extra Credit Implementation
 
 ![Mini Cards]({{}}/images/sets_ec.jpg)
 
