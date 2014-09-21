@@ -2,7 +2,7 @@
 layout: post
 title: "Intro to my webpage"
 date: 2014-09-21 13:17:00
-catagories: website self
+catagories: website self general
 ---
 
 I'm creating this blog to serve a few purposes:
