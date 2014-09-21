@@ -10,12 +10,13 @@ permalink: /resume/
 ### Education
 * **University of Pittsburgh** - Computer Science (August 2011 - April 2015 (Expected))
 
+Computer Science GPA: 3.713
 Current GPA: 3.79 (Overall)
 
 #### Computer Science Courses Taken
 
-* Introduction to Database Management Systems
-* Programming Languages for Web Applications
+* Introduction to Database Management Systems (SQL / Java)
+* Programming Languages for Web Applications ( PHP / Javascript )
 * Software Testing (Java)
 * Introduction to Operating Systems (C)
 * Algorithm Implementation (Java)
