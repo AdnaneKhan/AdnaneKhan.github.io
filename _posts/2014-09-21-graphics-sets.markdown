@@ -2,7 +2,7 @@
 layout: post
 title: "Graphics Sets Project"
 date: 2014-09-21 13:24:00
-catagories: programming projectlog
+categories: programming projectlog
 ---
 
 ## Sets Project
