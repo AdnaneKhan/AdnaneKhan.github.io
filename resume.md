@@ -8,7 +8,7 @@ permalink: /resume/
  * **[DeepFerest Media](http://www.deepforestmedia.com/)** - Software Developer Intern (May - September 2013)
 
 ### Education
-* **University of Pittsburgh** - Computer Science (August 2011 - April 2015 (Expected))
+***University of Pittsburgh** - Computer Science (August 2011 - April 2015 (Expected))
 
 Computer Science GPA: 3.713
 Current GPA: 3.79 (Overall)
@@ -34,3 +34,11 @@ Current GPA: 3.79 (Overall)
 	Incorporating sensor integration and computer vision
 * Artificial Intelligence (C++)
 
+### Activities
+
+Students for Startups - Vice President ( July 2014 - Present )
+* Worked on club website
+* Worked on organizing educational workshop for club members
+Pitt LAN Party and Gaming Club - Vice President ( August 2013 - Present )
+* Organized presence at student activities fair
+* Managed scheduling for meetings and events
