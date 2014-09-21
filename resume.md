@@ -36,9 +36,12 @@ Current GPA: 3.79 (Overall)
 
 ### Activities
 
-Students for Startups - Vice President ( July 2014 - Present )
+**Students for Startups - Vice President** ( July 2014 - Present )
+
 * Worked on club website
 * Worked on organizing educational workshop for club members
-Pitt LAN Party and Gaming Club - Vice President ( August 2013 - Present )
+
+**Pitt LAN Party and Gaming Club - Vice President** ( August 2013 - Present )
+
 * Organized presence at student activities fair
 * Managed scheduling for meetings and events
