@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a motivated student who is passionate about a wide range of technologies.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+These days topics my interest as been piqued by virtual reality. I am hoping to buy an Oculus Rift once I graduate to tinker with in my spare time.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+For hobbies I enjoy exercising and looking up foods that I can cook. I eat a gluten free and dairy free diet so cooking is a very important part of my life.
